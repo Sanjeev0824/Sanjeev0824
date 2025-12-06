@@ -12,8 +12,6 @@ Results-driven Java Developer with hands-on experience in building scalable, hig
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanjeev0824&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev0824&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sanjeev0824&limit=5&theme=dark&combine_all_yearly_contributions=true)
